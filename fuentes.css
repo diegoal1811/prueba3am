@@ -1,0 +1,6 @@
+@font-face{
+    font-family: "Coco-nrml";
+    font-style: normal;
+    font-weight: normal;
+    src: local("?"),url("fuentes/Coco-nrml.ttf"), url("fuentes/Coco-nrml.eot");
+}
